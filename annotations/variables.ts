@@ -54,3 +54,5 @@ for (let i = 0; i < numbersz.length; i++) {
     numberAboveZero = numbersz[i];
   }
 }
+
+// TYPE Function
